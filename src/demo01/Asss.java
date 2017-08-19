@@ -10,6 +10,8 @@ public class Asss {
 		c=a%b;
 		int d=1;
 		
+		
+		
 		System.out.println(d);
 		System.out.println(b);
 		System.out.println(c);
