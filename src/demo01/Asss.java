@@ -9,6 +9,8 @@ public class Asss {
 		b=8;
 		c=a%b;
 		
+		
+		System.out.println(b);
 		System.out.println(c);
 	}
 
