@@ -8,10 +8,7 @@ public class Asss {
 		a=88;
 		b=8;
 		c=a%b;
-		int d=1;
-		
-		
-		
+		int d=1;		
 		System.out.println(d);
 		System.out.println(b);
 		System.out.println(c);
