@@ -9,7 +9,7 @@ public class Asss {
 		b=8;
 		c=a%b;
 		int d=1;
-		
+		//d=1;
 		
 		
 		System.out.println(d);
